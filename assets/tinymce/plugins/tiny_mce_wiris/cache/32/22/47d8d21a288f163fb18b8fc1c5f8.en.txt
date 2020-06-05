@@ -1,0 +1,1 @@
+begin inline style sum from 3 to 2 of end style blank over blank

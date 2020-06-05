@@ -1,0 +1,31 @@
+
+.navbar-default .navbar-nav > li > a:focus {
+   background: #222;
+   color: #eee;
+   transition: 1s ease;
+}
+#content{
+   min-height: 90%;
+   padding-top: 70px;
+}
+footer{
+   border-top: 2px solid #efefef;
+   padding: 10px 0;
+   color: #888;
+}
+
+hr{
+   clear: both;
+}
+h3{
+  display: inline-block;
+  margin: 0;
+}
+.btn-top{
+   margin-bottom: 20px;
+   margin-left: 10px;
+}
+table.dataTable thead .sorting:after {
+   opacity: 0;
+   content: "";
+}
